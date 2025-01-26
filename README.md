@@ -46,6 +46,7 @@ The t-SNE and UMAP plots reveal clear clusters corresponding to the target class
 - Experiment with different backbone models for transfer learning.
 - Implement more data augmentation techniques for improved generalization.
 - Deploy the trained model as a web application for real-time classification.
+- Increase dataset and add some exotic forest types.
 
 ## License
 
